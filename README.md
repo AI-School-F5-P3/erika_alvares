@@ -1,5 +1,4 @@
-# erika_alvares
-Curso de IA de Factoria
+Aquí tienes el contenido corregido en formato Markdown:
 
 ```markdown
 # Bootcamp de Inteligencia Artificial - Factoría F5
