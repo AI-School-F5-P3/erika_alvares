@@ -1,4 +1,6 @@
 
+![Logo Factoria F](https://github.com/AI-School-F5-P3/erika_alvares/raw/main/Imagenes/LogoFactoriaF.png)
+
 # Bootcamp de Inteligencia Artificial - Factoría F5
 
 ¡Bienvenidos al repositorio de proyectos del curso de Inteligencia Artificial de Factoría F5! Este repositorio contendrá todos los proyectos desarrollados durante el bootcamp, demostrando las habilidades y conocimientos adquiridos a lo largo del curso.
