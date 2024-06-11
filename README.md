@@ -2,7 +2,7 @@
 
 ¡Bienvenidos al repositorio de proyectos del curso de Inteligencia Artificial de Factoría F5! Este repositorio contendrá todos los proyectos desarrollados durante el bootcamp, demostrando las habilidades y conocimientos adquiridos a lo largo del curso.
 
-## Descripción del Curso
+## 📘 Descripción del Curso
 
 El **Bootcamp de Inteligencia Artificial - Factoría F5** es un programa intensivo de 1250 horas diseñado para proporcionar una formación integral en inteligencia artificial, abarcando desde la programación básica hasta la implementación de modelos avanzados de IA. El curso es impartido por expertos en el campo y se enfoca en un aprendizaje práctico basado en proyectos.
 
@@ -10,7 +10,7 @@ El **Bootcamp de Inteligencia Artificial - Factoría F5** es un programa intensi
 
 La metodología del curso se basa en la **pedagogía activa**, el **aprendizaje competencial** y el **aprendizaje basado en proyectos**. Esto significa que los estudiantes aprenden haciendo, organizando sus propios proyectos y trabajando en equipo para resolver problemas reales. Los formadores actúan como facilitadores, guiando a los estudiantes en su proceso de autoaprendizaje y desarrollo de habilidades.
 
-## Competencias Adquiridas
+## 🎯 Competencias Adquiridas
 
 Durante el bootcamp, los estudiantes adquirirán las siguientes competencias:
 
