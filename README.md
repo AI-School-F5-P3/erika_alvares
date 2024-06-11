@@ -72,7 +72,7 @@ Al finalizar el curso, los estudiantes estarán preparados para roles como:
 
 ## Recursos
 
-Para más información, puedes consultar el syllabus completo del curso [aquí](https://github.com/AI-School-F5-P3/erika_alvares/blob/main/Copia_de_IA_Syllabus_P3_IA.pdf).
+Para más información, puedes consultar el syllabus completo del curso [aquí](https://github.com/AI-School-F5-P3/erika_alvares/blob/f8a7d74fd629d24730c247eb1daf191bdabc2057/Copia_de_IA_Syllabus_P3_IA.pdf).
 
 ---
 
