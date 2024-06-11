@@ -1,6 +1,4 @@
-Aquí tienes el contenido corregido en formato Markdown:
 
-```markdown
 # Bootcamp de Inteligencia Artificial - Factoría F5
 
 ¡Bienvenidos al repositorio de proyectos del curso de Inteligencia Artificial de Factoría F5! Este repositorio contendrá todos los proyectos desarrollados durante el bootcamp, demostrando las habilidades y conocimientos adquiridos a lo largo del curso.
