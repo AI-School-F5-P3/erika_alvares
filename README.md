@@ -73,4 +73,4 @@ Para más información, puedes consultar el syllabus completo del curso [aquí](
 ---
 
 ¡Esperamos que disfrutes tu experiencia en el Bootcamp de Inteligencia Artificial y que este repositorio sea un reflejo de tu progreso y logros a lo largo del curso!
-```
+
